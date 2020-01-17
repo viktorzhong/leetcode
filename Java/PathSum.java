@@ -9,6 +9,7 @@
  */
 class Solution {
     // Recursive solution
+	// 递归算法
     public boolean hasPathSum(TreeNode root, int sum) {
         if(root == null) return false;
         
@@ -19,6 +20,7 @@ class Solution {
     }
 
     // Iterative solution
+	// 非递归算法，借助两个stack
     public boolean hasPathSumIterative(TreeNode root, int sum) {
         if(root == null) return false;
 
