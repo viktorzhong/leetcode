@@ -12,6 +12,7 @@ LeetCode Solutions in Java and Go
 | 102  | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | [Java]()    [Go]()                                           | Medium     |
 | 104  | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | [Java]()    [Go]()                                           | Easy       |
 | 107  | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii) | [Java]()    [Go]()                                           | Easy       |
+| 110  | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree) | [Java]()    [Go]()                                           | Easy       |
 | 111  | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree) | [Java]()    [Go]()                                           | Easy       |
 | 112  | Path  Sum                                                    | [Java](https://github.com/viktorzhong/leetcode/blob/master/Java/PathSum.java)    [Go](https://github.com/viktorzhong/leetcode/blob/master/Go/path_sum.go) | Easy       |
 | 113  | Path  Sum II                                                 | [Java](https://github.com/viktorzhong/leetcode/blob/master/Java/PathSumII.java)    [Go](https://github.com/viktorzhong/leetcode/blob/master/Go/path_sum_II.go) | Medium     |
