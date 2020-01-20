@@ -22,4 +22,5 @@ LeetCode Solutions in Java and Go
 | 136  | Single Number                                                | [Java](<https://github.com/viktorzhong/leetcode/blob/master/Java/SingleNumber.java>)    [Go](<https://github.com/viktorzhong/leetcode/blob/master/Go/single_number.go>) | Easy       |
 | 202  | Happy Number                                                 | [Java](<https://github.com/viktorzhong/leetcode/blob/master/Java/IsHappy.java>)    [Go](<https://github.com/viktorzhong/leetcode/blob/master/Go/is_happy.go>) | Easy       |
 | 226  | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree) | [Java]()    [Go]()                                           | Easy       |
+| 700  | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree) |                                                              | Easy       |
 
