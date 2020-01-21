@@ -23,6 +23,7 @@ LeetCode Solutions in Java and Go
 | 113  | Path  Sum II                                                 | [Java](https://github.com/viktorzhong/leetcode/blob/master/Java/PathSumII.java)    [Go](https://github.com/viktorzhong/leetcode/blob/master/Go/path_sum_II.go) | Medium     |
 | 116  | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node) |                                                              | Medium     |
 | 117  | [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii) |                                                              | Medium     |
+| 124  | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum) |                                                              | Hard       |
 | 136  | Single Number                                                | [Java](<https://github.com/viktorzhong/leetcode/blob/master/Java/SingleNumber.java>)    [Go](<https://github.com/viktorzhong/leetcode/blob/master/Go/single_number.go>) | Easy       |
 | 144  | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal) |                                                              | Medium     |
 | 145  | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal) |                                                              | Hard       |
