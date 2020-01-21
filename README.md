@@ -29,5 +29,6 @@ LeetCode Solutions in Java and Go
 | 145  | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal) |                                                              | Hard       |
 | 202  | Happy Number                                                 | [Java](<https://github.com/viktorzhong/leetcode/blob/master/Java/IsHappy.java>)    [Go](<https://github.com/viktorzhong/leetcode/blob/master/Go/is_happy.go>) | Easy       |
 | 226  | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree) | [Java](https://github.com/viktorzhong/leetcode/blob/master/Java/InvertTree.java)    [Go](https://github.com/viktorzhong/leetcode/blob/master/Go/invert_tree.go) | Easy       |
+| 617  | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees) |                                                              | Easy       |
 | 700  | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree) | [Java](https://github.com/viktorzhong/leetcode/blob/master/Java/SearchBST.java)    [Go](https://github.com/viktorzhong/leetcode/blob/master/Go/search_bst.go) | Easy       |
 
