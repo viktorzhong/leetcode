@@ -30,6 +30,8 @@ LeetCode Solutions in Java and Go
 | 202  | Happy Number                                                 | [Java](<https://github.com/viktorzhong/leetcode/blob/master/Java/IsHappy.java>)    [Go](<https://github.com/viktorzhong/leetcode/blob/master/Go/is_happy.go>) | Easy       |
 | 226  | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree) | [Java](https://github.com/viktorzhong/leetcode/blob/master/Java/InvertTree.java)    [Go](https://github.com/viktorzhong/leetcode/blob/master/Go/invert_tree.go) | Easy       |
 | 235  | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree) |                                                              | Easy       |
+| 236  | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree) |                                                              | Medium     |
+| 543  | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree) |                                                              | Easy       |
 | 572  | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree) |                                                              | Easy       |
 | 617  | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees) |                                                              | Easy       |
 | 700  | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree) | [Java](https://github.com/viktorzhong/leetcode/blob/master/Java/SearchBST.java)    [Go](https://github.com/viktorzhong/leetcode/blob/master/Go/search_bst.go) | Easy       |
