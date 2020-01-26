@@ -7,6 +7,7 @@ LeetCode Solutions in Java and Go
 | 2    | Add Two Numbers                                              | [Java](<https://github.com/viktorzhong/leetcode/blob/master/Java/AddTwoNumbers.java>)    [Go](https://github.com/viktorzhong/leetcode/blob/master/Go/add_two_numbers.go) | Medium     |
 | 3    | Longest Substring Without Repeating Characters               | [Java](https://github.com/viktorzhong/leetcode/blob/master/Java/LengthOfLongestSubstring.java)    [Go](https://github.com/viktorzhong/leetcode/blob/master/Go/length_of_longest_substring.go) | Medium     |
 | 22   | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) |                                                              | Medium     |
+| 50   | [Pow(x, n)](https://leetcode.com/problems/powx-n)            |                                                              | Medium     |
 | 70   | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) |                                                              | Easy       |
 | 94   | Binary Tree Inorder Traversal                                | [Java](https://github.com/viktorzhong/leetcode/blob/master/Java/InorderTraversal.java)    [Go](https://github.com/viktorzhong/leetcode/blob/master/Go/inorder_traversal.go) | Medium     |
 | 98   | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) | [Java](https://github.com/viktorzhong/leetcode/blob/master/Java/IsValidBST.java)    [Go](https://github.com/viktorzhong/leetcode/blob/master/Go/valid_bst.go) | Medium     |
