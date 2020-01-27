@@ -9,6 +9,7 @@ LeetCode Solutions in Java and Go
 | 22   | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) |                                                              | Medium     |
 | 50   | [Pow(x, n)](https://leetcode.com/problems/powx-n)            |                                                              | Medium     |
 | 70   | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) |                                                              | Easy       |
+| 78   | [Subsets](https://leetcode.com/problems/subsets)             |                                                              | Medium     |
 | 94   | Binary Tree Inorder Traversal                                | [Java](https://github.com/viktorzhong/leetcode/blob/master/Java/InorderTraversal.java)    [Go](https://github.com/viktorzhong/leetcode/blob/master/Go/inorder_traversal.go) | Medium     |
 | 98   | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) | [Java](https://github.com/viktorzhong/leetcode/blob/master/Java/IsValidBST.java)    [Go](https://github.com/viktorzhong/leetcode/blob/master/Go/valid_bst.go) | Medium     |
 | 100  | Same Tree                                                    | [Java](https://github.com/viktorzhong/leetcode/blob/master/Java/SameTree.java)    [Go](https://github.com/viktorzhong/leetcode/blob/master/Go/same_tree.go) | Easy       |
