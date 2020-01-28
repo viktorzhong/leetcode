@@ -1,8 +1,5 @@
-
 func helper(nums []int, start int, elem []int, res *[][]int) {
-    temp := make([]int, len(elem))
-    copy(temp, elem)
-    *res = append(*res, temp)
+    *res = append(*res, append([]int{}, elem...))
     for i := start; i < len(nums); i += 1 {
         elem = append(elem, nums[i])
         helper(nums, i + 1, elem, res)

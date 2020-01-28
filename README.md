@@ -7,6 +7,7 @@ LeetCode Solutions in Java and Go
 | 2    | Add Two Numbers                                              | [Java](<https://github.com/viktorzhong/leetcode/blob/master/Java/AddTwoNumbers.java>)    [Go](https://github.com/viktorzhong/leetcode/blob/master/Go/add_two_numbers.go) | Medium     |
 | 3    | Longest Substring Without Repeating Characters               | [Java](https://github.com/viktorzhong/leetcode/blob/master/Java/LengthOfLongestSubstring.java)    [Go](https://github.com/viktorzhong/leetcode/blob/master/Go/length_of_longest_substring.go) | Medium     |
 | 22   | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) |                                                              | Medium     |
+| 46   | [Permutations](https://leetcode.com/problems/permutations)   |                                                              | Medium     |
 | 50   | [Pow(x, n)](https://leetcode.com/problems/powx-n)            |                                                              | Medium     |
 | 70   | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) |                                                              | Easy       |
 | 78   | [Subsets](https://leetcode.com/problems/subsets)             |                                                              | Medium     |
