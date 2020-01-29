@@ -6,6 +6,7 @@ LeetCode Solutions in Java and Go
 | 1    | Two Sum                                                      | [Java](<https://github.com/viktorzhong/leetcode/blob/master/Java/TwoSum.java>)    [Go](<https://github.com/viktorzhong/leetcode/blob/master/Go/two_sum.go>) | Easy       |
 | 2    | Add Two Numbers                                              | [Java](<https://github.com/viktorzhong/leetcode/blob/master/Java/AddTwoNumbers.java>)    [Go](https://github.com/viktorzhong/leetcode/blob/master/Go/add_two_numbers.go) | Medium     |
 | 3    | Longest Substring Without Repeating Characters               | [Java](https://github.com/viktorzhong/leetcode/blob/master/Java/LengthOfLongestSubstring.java)    [Go](https://github.com/viktorzhong/leetcode/blob/master/Go/length_of_longest_substring.go) | Medium     |
+| 17   | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) |                                                              | Medium     |
 | 22   | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) |                                                              | Medium     |
 | 39   | [Combination Sum](https://leetcode.com/problems/combination-sum) |                                                              | Medium     |
 | 46   | [Permutations](https://leetcode.com/problems/permutations)   |                                                              | Medium     |
