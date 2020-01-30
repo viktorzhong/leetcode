@@ -11,6 +11,7 @@ LeetCode Solutions in Java and Go
 | 39   | [Combination Sum](https://leetcode.com/problems/combination-sum) | [Java](https://github.com/viktorzhong/leetcode/blob/master/Java/CombinationSum.java)    [Go](https://github.com/viktorzhong/leetcode/blob/master/Go/combination_sum.go) | Medium     |
 | 46   | [Permutations](https://leetcode.com/problems/permutations)   | [Java](https://github.com/viktorzhong/leetcode/blob/master/Java/Permutations.java)    [Go](https://github.com/viktorzhong/leetcode/blob/master/Go/permutations.go) | Medium     |
 | 50   | [Pow(x, n)](https://leetcode.com/problems/powx-n)            | [Java](<https://github.com/viktorzhong/leetcode/blob/master/Java/Pow.java>)    [Go](https://github.com/viktorzhong/leetcode/blob/master/Go/pow.go) | Medium     |
+| 51   | [N-Queens](https://leetcode.com/problems/n-queens)           |                                                              | Hard       |
 | 52   | [N-Queens II](https://leetcode.com/problems/n-queens-ii)     |                                                              | Hard       |
 | 70   | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | [Java](https://github.com/viktorzhong/leetcode/blob/master/Java/ClimbStairs.java)    [Go](https://github.com/viktorzhong/leetcode/blob/master/Go/climb_stairs.go) | Easy       |
 | 78   | [Subsets](https://leetcode.com/problems/subsets)             | [Java](https://github.com/viktorzhong/leetcode/blob/master/Java/Subsets.java)    [Go](https://github.com/viktorzhong/leetcode/blob/master/Go/subsets.go) | Medium     |
