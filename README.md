@@ -11,6 +11,7 @@ LeetCode Solutions in Java and Go
 | 22   | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) | [Java](https://github.com/viktorzhong/leetcode/blob/master/Java/GenerateParenthesis.java)    [Go](https://github.com/viktorzhong/leetcode/blob/master/Go/generate_parenthesis.go) | Medium     |
 | 39   | [Combination Sum](https://leetcode.com/problems/combination-sum) | [Java](https://github.com/viktorzhong/leetcode/blob/master/Java/CombinationSum.java)    [Go](https://github.com/viktorzhong/leetcode/blob/master/Go/combination_sum.go) | Medium     |
 | 46   | [Permutations](https://leetcode.com/problems/permutations)   | [Java](https://github.com/viktorzhong/leetcode/blob/master/Java/Permutations.java)    [Go](https://github.com/viktorzhong/leetcode/blob/master/Go/permutations.go) | Medium     |
+| 47   | [Permutations II](https://leetcode.com/problems/permutations-ii) |                                                              | Medium     |
 | 50   | [Pow(x, n)](https://leetcode.com/problems/powx-n)            | [Java](<https://github.com/viktorzhong/leetcode/blob/master/Java/Pow.java>)    [Go](https://github.com/viktorzhong/leetcode/blob/master/Go/pow.go) | Medium     |
 | 51   | [N-Queens](https://leetcode.com/problems/n-queens)           |                                                              | Hard       |
 | 52   | [N-Queens II](https://leetcode.com/problems/n-queens-ii)     |                                                              | Hard       |
