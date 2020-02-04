@@ -43,6 +43,7 @@ LeetCode Solutions in Java and Go
 | 145  | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal) | [Java](https://github.com/viktorzhong/leetcode/blob/master/Java/PostorderTraversal.java)    [Go](https://github.com/viktorzhong/leetcode/blob/master/Go/postorder_traversal.go) | Hard       |
 | 200  | [Number of Islands](https://leetcode.com/problems/number-of-islands) |                                                              | Medium     |
 | 202  | Happy Number                                                 | [Java](<https://github.com/viktorzhong/leetcode/blob/master/Java/IsHappy.java>)    [Go](<https://github.com/viktorzhong/leetcode/blob/master/Go/is_happy.go>) | Easy       |
+| 206  | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) |                                                              | Easy       |
 | 207  | [Course Schedule](https://leetcode.com/problems/course-schedule) |                                                              | Medium     |
 | 210  | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii) |                                                              | Medium     |
 | 226  | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree) | [Java](https://github.com/viktorzhong/leetcode/blob/master/Java/InvertTree.java)    [Go](https://github.com/viktorzhong/leetcode/blob/master/Go/invert_tree.go) | Easy       |
@@ -56,5 +57,6 @@ LeetCode Solutions in Java and Go
 | 543  | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree) | [Java](https://github.com/viktorzhong/leetcode/blob/master/Java/DiameterOfBinaryTree.java)    [Go](https://github.com/viktorzhong/leetcode/blob/master/Go/diameter_binary_tree.go) | Easy       |
 | 572  | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree) | [Java](https://github.com/viktorzhong/leetcode/blob/master/Java/IsSubTree.java)    [Go](https://github.com/viktorzhong/leetcode/blob/master/Go/is_subtree.go) | Easy       |
 | 617  | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees) | [Java](https://github.com/viktorzhong/leetcode/blob/master/Java/MergeTrees.java)    [Go](https://github.com/viktorzhong/leetcode/blob/master/Go/merge_trees.go) | Easy       |
+| 695  | [Max Area of Island](https://leetcode.com/problems/max-area-of-island) |                                                              | Medium     |
 | 700  | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree) | [Java](https://github.com/viktorzhong/leetcode/blob/master/Java/SearchBST.java)    [Go](https://github.com/viktorzhong/leetcode/blob/master/Go/search_bst.go) | Easy       |
 
