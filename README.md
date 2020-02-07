@@ -47,6 +47,7 @@ LeetCode Solutions in Java and Go
 | 206  | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) |                                                              | Easy       |
 | 207  | [Course Schedule](https://leetcode.com/problems/course-schedule) |                                                              | Medium     |
 | 210  | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii) |                                                              | Medium     |
+| 213  | [House Robber II](https://leetcode.com/problems/house-robber-ii) |                                                              | Medium     |
 | 226  | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree) | [Java](https://github.com/viktorzhong/leetcode/blob/master/Java/InvertTree.java)    [Go](https://github.com/viktorzhong/leetcode/blob/master/Go/invert_tree.go) | Easy       |
 | 235  | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree) | [Java](https://github.com/viktorzhong/leetcode/blob/master/Java/LowestCommonAncestor.java)    [Go](https://github.com/viktorzhong/leetcode/blob/master/Go/lowest_common_ancestor.go) | Easy       |
 | 236  | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree) | [Java]()    [Go](https://github.com/viktorzhong/leetcode/blob/master/Go/lowest_common_ancestor_binary_tree.go) | Medium     |
