@@ -17,6 +17,7 @@ LeetCode Solutions in Java and Go
 | 52   | [N-Queens II](https://leetcode.com/problems/n-queens-ii)     |                                                              | Hard       |
 | 53   | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) |                                                              | Easy       |
 | 70   | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | [Java](https://github.com/viktorzhong/leetcode/blob/master/Java/ClimbStairs.java)    [Go](https://github.com/viktorzhong/leetcode/blob/master/Go/climb_stairs.go) | Easy       |
+| 72   | [Edit Distance](https://leetcode.com/problems/edit-distance) |                                                              | Hard       |
 | 78   | [Subsets](https://leetcode.com/problems/subsets)             | [Java](https://github.com/viktorzhong/leetcode/blob/master/Java/Subsets.java)    [Go](https://github.com/viktorzhong/leetcode/blob/master/Go/subsets.go) | Medium     |
 | 79   | [Word Search](https://leetcode.com/problems/word-search)     |                                                              | Medium     |
 | 94   | Binary Tree Inorder Traversal                                | [Java](https://github.com/viktorzhong/leetcode/blob/master/Java/InorderTraversal.java)    [Go](https://github.com/viktorzhong/leetcode/blob/master/Go/inorder_traversal.go) | Medium     |
