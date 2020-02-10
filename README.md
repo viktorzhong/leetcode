@@ -15,6 +15,7 @@ LeetCode Solutions in Java and Go
 | 50   | [Pow(x, n)](https://leetcode.com/problems/powx-n)            | [Java](<https://github.com/viktorzhong/leetcode/blob/master/Java/Pow.java>)    [Go](https://github.com/viktorzhong/leetcode/blob/master/Go/pow.go) | Medium     |
 | 51   | [N-Queens](https://leetcode.com/problems/n-queens)           |                                                              | Hard       |
 | 52   | [N-Queens II](https://leetcode.com/problems/n-queens-ii)     |                                                              | Hard       |
+| 53   | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) |                                                              | Easy       |
 | 70   | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | [Java](https://github.com/viktorzhong/leetcode/blob/master/Java/ClimbStairs.java)    [Go](https://github.com/viktorzhong/leetcode/blob/master/Go/climb_stairs.go) | Easy       |
 | 78   | [Subsets](https://leetcode.com/problems/subsets)             | [Java](https://github.com/viktorzhong/leetcode/blob/master/Java/Subsets.java)    [Go](https://github.com/viktorzhong/leetcode/blob/master/Go/subsets.go) | Medium     |
 | 79   | [Word Search](https://leetcode.com/problems/word-search)     |                                                              | Medium     |
