@@ -17,6 +17,7 @@ LeetCode Solutions in Java and Go
 | 52   | [N-Queens II](https://leetcode.com/problems/n-queens-ii)     |                                                              | Hard       |
 | 53   | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) |                                                              | Easy       |
 | 62   | [Unique Paths](https://leetcode.com/problems/unique-paths)   |                                                              | Medium     |
+| 63   | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii) |                                                              | Medium     |
 | 64   | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum) |                                                              | Medium     |
 | 70   | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | [Java](https://github.com/viktorzhong/leetcode/blob/master/Java/ClimbStairs.java)    [Go](https://github.com/viktorzhong/leetcode/blob/master/Go/climb_stairs.go) | Easy       |
 | 72   | [Edit Distance](https://leetcode.com/problems/edit-distance) |                                                              | Hard       |
@@ -40,6 +41,7 @@ LeetCode Solutions in Java and Go
 | 114  | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list) | [Java](https://github.com/viktorzhong/leetcode/blob/master/Java/FlatternBinaryTree.java)    [Go](https://github.com/viktorzhong/leetcode/blob/master/Go/flatten_binary_tree.go) | Medium     |
 | 116  | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node) | [Java](https://github.com/viktorzhong/leetcode/blob/master/Java/PopulateNextPointers.java)    [Go]() | Medium     |
 | 117  | [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii) | [Java](https://github.com/viktorzhong/leetcode/blob/master/Java/PopulateNextPointersII.java)    [Go]() | Medium     |
+| 120  | [Triangle](https://leetcode.com/problems/triangle)           |                                                              | Medium     |
 | 121  | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) |                                                              | Easy       |
 | 122  | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii) |                                                              | Easy       |
 | 124  | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum) | [Java](https://github.com/viktorzhong/leetcode/blob/master/Java/MaxPathSum.java)    [Go](https://github.com/viktorzhong/leetcode/blob/master/Go/max_path_sum.go) | Hard       |
