@@ -51,6 +51,7 @@ LeetCode Solutions in Java and Go
 | 144  | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal) | [Java](https://github.com/viktorzhong/leetcode/blob/master/Java/PreorderTraversal.java)    [Go](https://github.com/viktorzhong/leetcode/blob/master/Go/preorder_traversal.go) | Medium     |
 | 145  | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal) | [Java](https://github.com/viktorzhong/leetcode/blob/master/Java/PostorderTraversal.java)    [Go](https://github.com/viktorzhong/leetcode/blob/master/Go/postorder_traversal.go) | Hard       |
 | 152  | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray) |                                                              | Medium     |
+| 191  | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits) |                                                              | Easy       |
 | 198  | [House Robber](https://leetcode.com/problems/house-robber)   |                                                              | Easy       |
 | 200  | [Number of Islands](https://leetcode.com/problems/number-of-islands) |                                                              | Medium     |
 | 202  | Happy Number                                                 | [Java](<https://github.com/viktorzhong/leetcode/blob/master/Java/IsHappy.java>)    [Go](<https://github.com/viktorzhong/leetcode/blob/master/Go/is_happy.go>) | Easy       |
