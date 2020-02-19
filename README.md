@@ -16,6 +16,7 @@ LeetCode Solutions in Java and Go
 | 51   | [N-Queens](https://leetcode.com/problems/n-queens)           |                                                              | Hard       |
 | 52   | [N-Queens II](https://leetcode.com/problems/n-queens-ii)     |                                                              | Hard       |
 | 53   | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) |                                                              | Easy       |
+| 56   | [Merge Intervals](https://leetcode.com/problems/merge-intervals) |                                                              | Medium     |
 | 62   | [Unique Paths](https://leetcode.com/problems/unique-paths)   |                                                              | Medium     |
 | 63   | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii) |                                                              | Medium     |
 | 64   | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum) |                                                              | Medium     |
