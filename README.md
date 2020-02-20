@@ -22,6 +22,7 @@ LeetCode Solutions in Java and Go
 | 64   | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum) |                                                              | Medium     |
 | 70   | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | [Java](https://github.com/viktorzhong/leetcode/blob/master/Java/ClimbStairs.java)    [Go](https://github.com/viktorzhong/leetcode/blob/master/Go/climb_stairs.go) | Easy       |
 | 72   | [Edit Distance](https://leetcode.com/problems/edit-distance) |                                                              | Hard       |
+| 75   | [Sort Colors](https://leetcode.com/problems/sort-colors)     |                                                              | Medium     |
 | 78   | [Subsets](https://leetcode.com/problems/subsets)             | [Java](https://github.com/viktorzhong/leetcode/blob/master/Java/Subsets.java)    [Go](https://github.com/viktorzhong/leetcode/blob/master/Go/subsets.go) | Medium     |
 | 79   | [Word Search](https://leetcode.com/problems/word-search)     |                                                              | Medium     |
 | 91   | [Decode Ways](https://leetcode.com/problems/decode-ways)     |                                                              | Medium     |
