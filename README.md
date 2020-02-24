@@ -57,6 +57,7 @@ LeetCode Solutions in Java and Go
 | 147  | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list) |                                                              | Medium     |
 | 148  | [Sort List](https://leetcode.com/problems/sort-list)         |                                                              | Medium     |
 | 152  | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray) |                                                              | Medium     |
+| 167  | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) |                                                              | Easy       |
 | 191  | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits) |                                                              | Easy       |
 | 198  | [House Robber](https://leetcode.com/problems/house-robber)   |                                                              | Easy       |
 | 200  | [Number of Islands](https://leetcode.com/problems/number-of-islands) |                                                              | Medium     |
