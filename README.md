@@ -23,6 +23,7 @@ LeetCode Solutions in Java and Go
 | 62   | [Unique Paths](https://leetcode.com/problems/unique-paths)   |                                                              | Medium     |
 | 63   | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii) |                                                              | Medium     |
 | 64   | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum) |                                                              | Medium     |
+| 69   | [Sqrt(x)](https://leetcode.com/problems/sqrtx)               |                                                              | Easy       |
 | 70   | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | [Java](https://github.com/viktorzhong/leetcode/blob/master/Java/ClimbStairs.java)    [Go](https://github.com/viktorzhong/leetcode/blob/master/Go/climb_stairs.go) | Easy       |
 | 72   | [Edit Distance](https://leetcode.com/problems/edit-distance) |                                                              | Hard       |
 | 74   | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) |                                                              | Medium     |
