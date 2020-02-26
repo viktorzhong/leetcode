@@ -11,6 +11,7 @@ LeetCode Solutions in Java and Go
 | 21   | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) |                                                              | Easy       |
 | 22   | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) | [Java](https://github.com/viktorzhong/leetcode/blob/master/Java/GenerateParenthesis.java)    [Go](https://github.com/viktorzhong/leetcode/blob/master/Go/generate_parenthesis.go) | Medium     |
 | 23   | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) |                                                              | Hard       |
+| 33   | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) |                                                              | Medium     |
 | 35   | [Search Insert Position](https://leetcode.com/problems/search-insert-position) |                                                              | Easy       |
 | 39   | [Combination Sum](https://leetcode.com/problems/combination-sum) | [Java](https://github.com/viktorzhong/leetcode/blob/master/Java/CombinationSum.java)    [Go](https://github.com/viktorzhong/leetcode/blob/master/Go/combination_sum.go) | Medium     |
 | 46   | [Permutations](https://leetcode.com/problems/permutations)   | [Java](https://github.com/viktorzhong/leetcode/blob/master/Java/Permutations.java)    [Go](https://github.com/viktorzhong/leetcode/blob/master/Go/permutations.go) | Medium     |
