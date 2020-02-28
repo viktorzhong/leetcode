@@ -14,6 +14,7 @@ LeetCode Solutions in Java and Go
 | 33   | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) |                                                              | Medium     |
 | 34   | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) |                                                              | Medium     |
 | 35   | [Search Insert Position](https://leetcode.com/problems/search-insert-position) |                                                              | Easy       |
+| 36   | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku)   |                                                              | Medium     |
 | 39   | [Combination Sum](https://leetcode.com/problems/combination-sum) | [Java](https://github.com/viktorzhong/leetcode/blob/master/Java/CombinationSum.java)    [Go](https://github.com/viktorzhong/leetcode/blob/master/Go/combination_sum.go) | Medium     |
 | 46   | [Permutations](https://leetcode.com/problems/permutations)   | [Java](https://github.com/viktorzhong/leetcode/blob/master/Java/Permutations.java)    [Go](https://github.com/viktorzhong/leetcode/blob/master/Go/permutations.go) | Medium     |
 | 47   | [Permutations II](https://leetcode.com/problems/permutations-ii) |                                                              | Medium     |
