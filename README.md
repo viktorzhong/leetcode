@@ -90,6 +90,7 @@ LeetCode Solutions in Java and Go
 | 367  | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square) |                                                              | Easy       |
 | 437  | [Path Sum III](https://leetcode.com/problems/path-sum-iii)   | [Java](https://github.com/viktorzhong/leetcode/blob/master/Java/PathSumIII.java)    [Go](https://github.com/viktorzhong/leetcode/blob/master/Go/path_sum_III.go) | Easy       |
 | 450  | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst) | [Java](https://github.com/viktorzhong/leetcode/blob/master/Java/DeleteNode.java)    [Go](https://github.com/viktorzhong/leetcode/blob/master/Go/delete_node.go) | Medium     |
+| 504  | [Base 7](https://leetcode.com/problems/base-7)               |                                                              | Easy       |
 | 509  | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number) |                                                              | Easy       |
 | 518  | [Coin Change 2](https://leetcode.com/problems/coin-change-2) |                                                              | Medium     |
 | 538  | [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree) | [Java](https://github.com/viktorzhong/leetcode/blob/master/Java/ConvertBST.java)    [Go](https://github.com/viktorzhong/leetcode/blob/master/Go/convert_bst.go) | Easy       |
