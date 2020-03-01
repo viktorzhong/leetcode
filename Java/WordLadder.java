@@ -43,7 +43,6 @@ class Solution {
             map.put(beginWord, list);
         }
     }
-
     private int diff(String s, String t) {
         if(s.length() != t.length()) return -1;
         int count = 0;
