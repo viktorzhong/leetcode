@@ -105,5 +105,6 @@ LeetCode Solutions in Java and Go
 | 695  | [Max Area of Island](https://leetcode.com/problems/max-area-of-island) |                                                              | Medium     |
 | 700  | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree) | [Java](https://github.com/viktorzhong/leetcode/blob/master/Java/SearchBST.java)    [Go](https://github.com/viktorzhong/leetcode/blob/master/Go/search_bst.go) | Easy       |
 | 746  | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs) |                                                              | Easy       |
+| 994  | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges) |                                                              | Easy       |
 | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence) |                                                              | Medium     |
 
