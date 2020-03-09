@@ -84,6 +84,7 @@ LeetCode Solutions in Java and Go
 | 236  | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree) | [Java]()    [Go](https://github.com/viktorzhong/leetcode/blob/master/Go/lowest_common_ancestor_binary_tree.go) | Medium     |
 | 240  | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii) |                                                              | Medium     |
 | 263  | [Ugly Number](https://leetcode.com/problems/ugly-number)     |                                                              | Easy       |
+| 270  | [Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value) |                                                              | Easy       |
 | 279  | [Perfect Squares](https://leetcode.com/problems/perfect-squares) |                                                              | Medium     |
 | 287  | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number) |                                                              | Medium     |
 | 300  | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence) |                                                              | Medium     |
