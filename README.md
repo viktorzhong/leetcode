@@ -64,6 +64,7 @@ LeetCode Solutions in Java and Go
 | 136  | Single Number                                                | [Java](<https://github.com/viktorzhong/leetcode/blob/master/Java/SingleNumber.java>)    [Go](<https://github.com/viktorzhong/leetcode/blob/master/Go/single_number.go>) | Easy       |
 | 144  | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal) | [Java](https://github.com/viktorzhong/leetcode/blob/master/Java/PreorderTraversal.java)    [Go](https://github.com/viktorzhong/leetcode/blob/master/Go/preorder_traversal.go) | Medium     |
 | 145  | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal) | [Java](https://github.com/viktorzhong/leetcode/blob/master/Java/PostorderTraversal.java)    [Go](https://github.com/viktorzhong/leetcode/blob/master/Go/postorder_traversal.go) | Hard       |
+| 146  | [LRU Cache](https://leetcode.com/problems/lru-cache)         |                                                              | Medium     |
 | 147  | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list) |                                                              | Medium     |
 | 148  | [Sort List](https://leetcode.com/problems/sort-list)         |                                                              | Medium     |
 | 152  | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray) |                                                              | Medium     |
