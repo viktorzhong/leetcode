@@ -75,6 +75,7 @@ LeetCode Solutions in Java and Go
 | 198  | [House Robber](https://leetcode.com/problems/house-robber)   |                                                              | Easy       |
 | 200  | [Number of Islands](https://leetcode.com/problems/number-of-islands) |                                                              | Medium     |
 | 202  | Happy Number                                                 | [Java](<https://github.com/viktorzhong/leetcode/blob/master/Java/IsHappy.java>)    [Go](<https://github.com/viktorzhong/leetcode/blob/master/Go/is_happy.go>) | Easy       |
+| 203  | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements) |                                                              | Easy       |
 | 206  | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) |                                                              | Easy       |
 | 207  | [Course Schedule](https://leetcode.com/problems/course-schedule) |                                                              | Medium     |
 | 210  | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii) |                                                              | Medium     |
