@@ -7,7 +7,7 @@ LeetCode Solutions in Java and Go
 | 2    | Add Two Numbers                                              | [Java](<https://github.com/viktorzhong/leetcode/blob/master/Java/AddTwoNumbers.java>)    [Go](https://github.com/viktorzhong/leetcode/blob/master/Go/add_two_numbers.go) | Medium     |
 | 3    | Longest Substring Without Repeating Characters               | [Java](https://github.com/viktorzhong/leetcode/blob/master/Java/LengthOfLongestSubstring.java)    [Go](https://github.com/viktorzhong/leetcode/blob/master/Go/length_of_longest_substring.go) | Medium     |
 | 11   | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) |                                                              | Medium     |
-| 15   | [3Sum](https://leetcode.com/problems/3sum)                   |                                                              | Medium     |
+| 15   | [3Sum](https://leetcode.com/problems/3sum)                   | [Java](https://github.com/viktorzhong/leetcode/blob/master/Java/3Sum.java)    [Go]() | Medium     |
 | 17   | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) | [Java](https://github.com/viktorzhong/leetcode/blob/master/Java/LetterCombinations.java)    [Go](https://github.com/viktorzhong/leetcode/blob/master/Go/letter_combinations.go) | Medium     |
 | 20   | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) |                                                              | Easy       |
 | 21   | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) |                                                              | Easy       |
@@ -32,6 +32,7 @@ LeetCode Solutions in Java and Go
 | 69   | [Sqrt(x)](https://leetcode.com/problems/sqrtx)               |                                                              | Easy       |
 | 70   | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | [Java](https://github.com/viktorzhong/leetcode/blob/master/Java/ClimbStairs.java)    [Go](https://github.com/viktorzhong/leetcode/blob/master/Go/climb_stairs.go) | Easy       |
 | 72   | [Edit Distance](https://leetcode.com/problems/edit-distance) |                                                              | Hard       |
+| 73   | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) | [Java]()    [Go]()                                           | Medium     |
 | 74   | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) |                                                              | Medium     |
 | 75   | [Sort Colors](https://leetcode.com/problems/sort-colors)     |                                                              | Medium     |
 | 78   | [Subsets](https://leetcode.com/problems/subsets)             | [Java](https://github.com/viktorzhong/leetcode/blob/master/Java/Subsets.java)    [Go](https://github.com/viktorzhong/leetcode/blob/master/Go/subsets.go) | Medium     |
