@@ -7,6 +7,7 @@ LeetCode Solutions in Java and Go
 | 2    | Add Two Numbers                                              | [Java](<https://github.com/viktorzhong/leetcode/blob/master/Java/AddTwoNumbers.java>)    [Go](https://github.com/viktorzhong/leetcode/blob/master/Go/add_two_numbers.go) | Medium     |
 | 3    | Longest Substring Without Repeating Characters               | [Java](https://github.com/viktorzhong/leetcode/blob/master/Java/LengthOfLongestSubstring.java)    [Go](https://github.com/viktorzhong/leetcode/blob/master/Go/length_of_longest_substring.go) | Medium     |
 | 11   | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) |                                                              | Medium     |
+| 15   | [3Sum](https://leetcode.com/problems/3sum)                   |                                                              | Medium     |
 | 17   | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) | [Java](https://github.com/viktorzhong/leetcode/blob/master/Java/LetterCombinations.java)    [Go](https://github.com/viktorzhong/leetcode/blob/master/Go/letter_combinations.go) | Medium     |
 | 20   | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) |                                                              | Easy       |
 | 21   | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) |                                                              | Easy       |
